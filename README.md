@@ -2,7 +2,7 @@
 
 ![Icons](./img/cover.png)
 
-Windows 11 Drive / Folder icons for Home Assistant and Raspberry Pi
+Windows 11 Drive / Folder icons for [Home Assistant](https://home-assistant.io/) and [Raspberry Pi](https://www.raspberrypi.com/)
 
 - ## [*.ico 👉](./.ico)
 - ## [*.svg 👉](./.svg)
