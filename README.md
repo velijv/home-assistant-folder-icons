@@ -2,7 +2,7 @@
 
 [![Icons](./img/cover.png)](#)
 
-Windows 11 Drive / Folder icons for [Home Assistant](https://home-assistant.io/) and [Raspberry Pi](https://www.raspberrypi.com/). *Unofficial* - I just wanted my mapped network drives to look nice. 
+*Unofficial* [![Windows 11](https://img.shields.io/badge/-11-000?&logo=microsoft&logoColor=white&labelColor=00A4EF&style=flat&color=0078d4)](#) Drive / Folder icons for [![Home Assistant](https://img.shields.io/badge/Home-Assistant-000?logo=HomeAssistant&logoColor=fff&labelColor=41BDF5&style=flat&color=rgba(108,204,247,1))](https://github.com/home-assistant) and [![Raspberry Pi](https://img.shields.io/badge/-Pi-rgba%280%2C0%2C0%2C0%29?logo=Raspberry-Pi&logoColor=fff&labelColor=c51a4a&style=flat&color=rgba(108,198,74,1))](https://github.com/raspberrypi). I just wanted my mapped network drives to look nice. 
 
 - ## [*.ico 👉](./.ico)
 - ## [*.svg 👉](./.svg)
