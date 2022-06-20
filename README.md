@@ -7,7 +7,7 @@
 - ## [*.ico 👉](./.ico)
 - ## [*.svg 👉](./.svg)
 
-| <a href="./.svg/home-assistant.svg"><img src='./.svg/home-assistant.svg' alt='HA' width="200"></a> | <a href="./.svg/raspberry-pi.svg"><img src='./.svg/raspberry-pi.svg' alt='RPi' width="200"></a> | <a href="./.svg/raspberry-powered.svg"><img src='./.svg/raspberry-powered.svg' alt='RPi Powered' width="200"></a>
+| <a href="./.svg/home-assistant.svg"><img src='./.svg/home-assistant.svg' alt='HA' width="300"></a> | <a href="./.svg/raspberry-pi.svg"><img src='./.svg/raspberry-pi.svg' alt='RPi' width="300"></a> | <a href="./.svg/raspberry-powered.svg"><img src='./.svg/raspberry-powered.svg' alt='RPi Powered' width="300"></a>
 |------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 
 ## Windows 11 preview
