@@ -2,7 +2,7 @@
 
 [![Icons](./img/cover.png)](#)
 
-## *Unofficial* [![Windows 11](https://img.shields.io/badge/-11-000?&logo=microsoft&logoColor=white&labelColor=00A4EF&style=flat&color=0078d4)](#) && [![macos](https://img.shields.io/badge/%E2%80%8E-Ventura%2013-000?logo=MacOS&logoColor=888&labelColor=1d1d1f&style=flat-square&color=rgba(0,0,0,0.3))](#) Drive / Folder icons for [![Home Assistant](https://img.shields.io/badge/Home-Assistant-000?logo=HomeAssistant&logoColor=fff&labelColor=41BDF5&style=flat&color=rgba(108,204,247,1))](https://github.com/home-assistant) and [![Raspberry Pi](https://img.shields.io/badge/-Pi-rgba%280%2C0%2C0%2C0%29?logo=Raspberry-Pi&logoColor=fff&labelColor=c51a4a&style=flat&color=rgba(108,198,74,1))](https://github.com/raspberrypi). 
+## *Unofficial* [![Windows 11](https://img.shields.io/badge/-11-000?&logo=microsoft&logoColor=white&labelColor=00A4EF&style=flat&color=0078d4)](#) && [![macos](https://img.shields.io/badge/%E2%80%8E-%2013-000?logo=MacOS&logoColor=888&labelColor=1d1d1f&style=flat-square&color=rgba(0,0,0,0.3))](#) Drive / Folder icons for [![Home Assistant](https://img.shields.io/badge/-Assistant-000?logo=HomeAssistant&logoColor=fff&labelColor=41BDF5&style=flat&color=rgba(108,204,247,1))](https://github.com/home-assistant) and [![Raspberry Pi](https://img.shields.io/badge/-Pi-rgba%280%2C0%2C0%2C0%29?logo=Raspberry-Pi&logoColor=fff&labelColor=c51a4a&style=flat&color=rgba(108,198,74,1))](https://github.com/raspberrypi). 
 
 *I just wanted my mapped network drives to look nice.*
 
@@ -14,7 +14,7 @@
 
 ## [👉 *.icns](./macos/icns)
 
-| [👉 *.iconset](./macos/iconset) | <a href="./macos/iconset/homeassistant.iconset/"><img src='./macos/iconset/homeassistant.iconset/icon_512x512@2x.png' alt='HA' width="300"></a> | <a href="./macos/iconset/raspberry.iconset"><img src='./macos/iconset/homeassistant.iconset/icon_512x512@2x.png' alt='RPi' width="300"></a> 
+| [👉 *.iconset](./macos/iconset) | <a href="./macos/iconset/homeassistant.iconset/"><img src='./macos/iconset/homeassistant.iconset/icon_512x512@2x.png' alt='HA' width="300"></a> | <a href="./macos/iconset/raspberry.iconset"><img src='./macos/iconset/raspberry.iconset/icon_512x512@2x.png' alt='RPi' width="300"></a> 
 |------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 
 ### Windows 11 preview
@@ -29,7 +29,8 @@
 |-------|------|
 | ![Icons](./img/mac-light.png) | ![Icons](./img/mac-dark.png) |
 
+***
 
-### ? linux?
+### linux?
 
 🤝 refer me to macOS or linux icon templates/guidelines and I'll create them
