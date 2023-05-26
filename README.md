@@ -27,8 +27,8 @@
 
 ## [👉 *.icns](./macos/icns)
 
-| [👉 *.iconset](./macos/iconset) | <a href="./macos/iconset/homeassistant.iconset/"><img src='./macos/iconset/homeassistant.iconset/icon_512x512@2x.png' alt='HA' width="300"></a> | <a href="./macos/iconset/raspberry.iconset"><img src='./macos/iconset/raspberry.iconset/icon_512x512@2x.png' alt='RPi' width="300"></a> 
-|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| [👉 *.iconset](./macos/iconset) | <a href="./macos/iconset/homeassistant.iconset/"><img src='./macos/iconset/homeassistant.iconset/icon_512x512@2x.png' alt='HA' width="300"></a> | <a href="./macos/iconset/raspberry.iconset"><img src='./macos/iconset/raspberry.iconset/icon_512x512@2x.png' alt='RPi' width="300"></a> | <a href="./macos/iconset/esphome.iconset"><img src='./macos/iconset/esphome.iconset/icon_512x512@2x.png' alt='RPi' width="300"></a> 
+|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 
 ### macOS 13 preview
 
